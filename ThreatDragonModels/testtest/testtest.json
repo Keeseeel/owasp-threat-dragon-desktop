@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "testtest",
+    "owner": "aaa",
+    "description": "aaa"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "fdgfd"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "dfgdfg",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "bbb"
+  }
+}
