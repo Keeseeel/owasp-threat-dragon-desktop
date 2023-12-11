@@ -51,7 +51,7 @@
     "jquery": "3.4.0",
     "lodash": "4.17.12",
     "owasp-threat-dragon-core": "0.7.0",
-    "promise-fs": "2.1.0",
+    "promise-fs": "2.1.1",
     "snyk": "^1.295.0"
   },
   "devDependencies": {
